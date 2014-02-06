@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<otrs_package version="1.0">
+    <Name>EmailFilterOTRS</Name>
+    <Version>0.1.0</Version>
+    <Framework>3.3.3</Framework>
+    <Vendor>Fabian Reichardt, cbs Consulting</Vendor>
+    <URL>http://www.cbs-consulting.de</URL>
+    <License>GNU AFFERO GENERAL PUBLIC LICENSE Version 3, November 2007</License>
+    <ChangeLog Version="0.1.0" Date="2014-02-06 13:38:59">Initial version</ChangeLog>
+    <Description Lang="en">Additional powerfull E-Mail filter</Description>
+    <Description Lang="de">Zusätzliche sehr mächtige E-Mail Filter</Description>
+    <BuildDate></BuildDate>
+    <BuildHost></BuildHost>
+    <Filelist>
+	</Filelist>
+</otrs_package>
